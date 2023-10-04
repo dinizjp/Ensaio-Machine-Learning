@@ -118,5 +118,11 @@ O produto final será 7 tabelas mostrando a performance dos algoritmos, avaliado
 | Polinomial Regression ElasticNet |  0.021 | 476.917 | 21.838 | 17.319 |  8.716 |
 
 
+# Resultados obtidos dos algoritmos de Clusterização
+
+|                  |   K-Means |   Affinity Propagation |
+|:-----------------|----------:|-----------------------:|
+| Silhouette Score |     0.232 |                  0.204 |
+| Nº Clusters      |         3 |                      7 |
 
 
