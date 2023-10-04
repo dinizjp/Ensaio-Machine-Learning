@@ -74,7 +74,7 @@ O produto final será 7 tabelas mostrando a performance dos algoritmos, avaliado
 
 ## Resultados de Treino para Regressão 
 
-|                                  |    R2 |     MSE |   RMSE |    MAE |   MAPE |
+|             Model                |    R2 |     MSE |   RMSE |    MAE |   MAPE |
 |:---------------------------------|------:|--------:|-------:|-------:|-------:|
 | Linear Model                     | 0.045 | 456.561 | 21.367 | 17.015 |  8.628 |
 | Linear Model Lasso               | 0.007 | 474.475 | 21.782 | 17.305 |  8.737 |
@@ -89,7 +89,7 @@ O produto final será 7 tabelas mostrando a performance dos algoritmos, avaliado
 
 ## Resultados de Validação para Regressão .
 
-|                                  |     R2 |     MSE |   RMSE |    MAE |   MAPE |
+|           Model                  |     R2 |     MSE |   RMSE |    MAE |   MAPE |
 |:---------------------------------|-------:|--------:|-------:|-------:|-------:|
 | Linear Model                     |  0.04  | 458.197 | 21.406 | 17.041 |  8.663 |
 | Linear Model Lasso               |  0.008 | 473.747 | 21.766 | 17.265 |  8.696 |
@@ -104,7 +104,7 @@ O produto final será 7 tabelas mostrando a performance dos algoritmos, avaliado
 
 ## Resultados de Teste para Regressão 
 
-|                                  |     R2 |     MSE |   RMSE |    MAE |   MAPE |
+|            Model                 |     R2 |     MSE |   RMSE |    MAE |   MAPE |
 |:---------------------------------|-------:|--------:|-------:|-------:|-------:|
 | Linear Model                     |  0.048 | 463.691 | 21.533 | 17.178 |  8.528 |
 | Linear Model Lasso               |  0.008 | 483.178 | 21.981 | 17.473 |  8.753 |
@@ -120,9 +120,8 @@ O produto final será 7 tabelas mostrando a performance dos algoritmos, avaliado
 
 # Resultados obtidos dos algoritmos de Clusterização
 
-|                  |   K-Means |   Affinity Propagation |
-|:-----------------|----------:|-----------------------:|
-| Silhouette Score |     0.232 |                  0.204 |
-| Nº Clusters      |         3 |                      7 |
-
+|   Model              |Number of clusters  |     Silhouette score |
+|:-------------------- | ------------------:|---------------------:| 
+| K-Means              |          3         | 0.232                |
+| Affinity Propagation |          7         | 0.204                |
 
