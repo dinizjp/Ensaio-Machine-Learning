@@ -125,3 +125,8 @@ O produto final será 7 tabelas mostrando a performance dos algoritmos, avaliado
 | K-Means              |          3         | 0.232                |
 | Affinity Propagation |          7         | 0.204                |
 
+
+# Conclusões
+Esse ensaio de Machine Learning foi muito importante para aprofundar o entendimento sobre o funcionamento de diversos algoritmos de classificação, regressão e clusterização e quais os principais parâmetros de controle entre os estados de underfitting e overfitting.
+
+
