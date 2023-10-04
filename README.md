@@ -1,7 +1,7 @@
 # Ensaio-Machine-Learning
 
 ## Descrição
-Ensaio de 16 algoritmos de Machine Learning com o intuido de adquirir conhecimento sobres o treinamento e ajuste fino de cada algoritmo, buscando uma melhor performance nas métricas de desempenho.
+Ensaio de 16 algoritmos de Machine Learning com o intuito de adquirir conhecimento sobres o treinamento e ajuste fino de cada algoritmo, buscando uma melhor performance nas métricas de desempenho.
 
 ## Objetivo
 O objetivo desse projeto foi realizar ensaios com algoritmos de Classificação, Regressão e Clusterização, para estudar a mudança do comportamento da performance, a medida que os valores dos principais parâmetros de controle de overfitting e underfitting mudam.
